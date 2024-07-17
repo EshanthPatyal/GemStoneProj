@@ -5,7 +5,7 @@ import numpy as np
 from src.exception import CustomException
 import dill
 import pickle
-from sklearn.metrics import r2_score,mean_absolute_error,mean_squared_error
+from sklearn.metrics import r2_score
 from sklearn.model_selection import GridSearchCV
 
 
